@@ -1,0 +1,17 @@
+.container {
+  height: 100vh;
+  background: url("../../assets/tech_sage-homebg.jpg");
+  background-size: cover;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.container h1 {
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+.container p {
+  font-family: "Roboto", sans-serif;
+}
+
+/*# sourceMappingURL=home.css.map */
