@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/homeStyles/home.css';
+import '../styles/home_styles/home.css';
 import {
   AiFillGoogleCircle,
   AiFillAmazonCircle,
